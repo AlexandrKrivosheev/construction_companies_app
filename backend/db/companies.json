@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "company_1",
+    "logo": { "link": "https://placekitten.com/50/50" },
+    "specialties": ["excavation", "plumbing", "electrical"],
+    "city": "berlin"
+  },
+  {
+    "id": "2",
+    "name": "company_2",
+    "logo": { "link": "https://placekitten.com/50/50" },
+    "specialties": ["excavation"],
+    "city": "bremen"
+  },
+  {
+    "id": "3",
+    "name": "company_3",
+    "logo": { "link": "https://placekitten.com/50/50" },
+    "specialties": ["plumbing"],
+    "city": "nuremberg"
+  },
+  {
+    "id": "4",
+    "name": "company_4",
+    "logo": { "link": "https://placekitten.com/50/50" },
+    "specialties": ["electrical"],
+    "city": "berlin"
+  }
+]
